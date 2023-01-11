@@ -12,3 +12,13 @@ A Few Examples:
  - khaana -> खाना
  - bhookh -> भूख
  - bhai -> भाई
+
+
+
+References:
+ - https://towardsdatascience.com/english-to-hindi-neural-machine-translation-7cb3a426491f
+ - https://github.com/siddharth17196/english-hindi-transliteration/blob/master/elt/translit.py
+ - https://bsantraigi.github.io/tutorial/2019/08/31/english-to-hindi-transliteration-using-seq2seq-model.html
+ - https://www.kaggle.com/code/aiswaryaramachandran/english-to-hindi-neural-machine-translation
+
+
